@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 
-.welcome {
+.hero {
   height: 100vh;
   width: 100%;
   background-color: #181A18;
@@ -22,7 +22,7 @@ nav {
   padding-bottom: 30px;
 }
 
-.name {
+.logo {
   color: white;
   font-size: 35px;
 }
